@@ -1,0 +1,6 @@
+{
+  "name": "Smart Inventory & Asset Management System",
+  "description": "Institutional asset and inventory management system for colleges, labs, workshops, and departments with QR/barcode tagging, check-in/out, and maintenance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
